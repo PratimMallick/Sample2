@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="get_products_list" formatted="false">https://api.redmart.com/v1.6.0/catalog/search?page=%d&amp;pageSize=20</string>
+    <string name="get_product_detail" formatted="false">https://api.redmart.com/v1.6.0/catalog/products/%d</string>
+    <string name="thumbnail_url" formatted="false">"http://media.redmart.com/newmedia/200p</string>
+</resources>
