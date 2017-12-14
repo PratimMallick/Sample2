@@ -1,4 +1,4 @@
-# Sample2
+# Using MVP Architure for REST call 
 
 This is a small example of how to fetch Data by calling a REST API using Volley library using MVP architecture.
 
